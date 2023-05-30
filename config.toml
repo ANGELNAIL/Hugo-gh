@@ -23,7 +23,7 @@ paginate = 5
     [languages.en.params.logo]
       logoText = "Terminal"
       logoHomeLink = "/Hugo-gh/posts/hello"
-      url = "/posts/hello"
+      url = "/Hugo-gh/posts/hello"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
